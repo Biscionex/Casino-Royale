@@ -65,12 +65,25 @@ Rules :
 4] The player gets paid accordingly if he wins    
 5] ENJOY 💸💸💸     
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+ROULETTE :
+
+Roulette is an iconic casino game where players bet on where a marble will land on a spinning wheel. Offering options like specific numbers or red and black colors, it delivers fast-paced suspense fueled purely by chance.     
+
+(In Python Roulette theres no marble )       
+
+Rules :           
+1] The user must choose a colour red/green/black     
+2] The marble lands on one of the colour palette on the wheel  
+3] Easyyy       
+
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 THE CASINO is under development        
 Upcoming games :            
-Roulette ⚫🔴, Snake-eyes🐍🎲, Coin-toss🪙, Poker♠️    
+Snake-eyes🐍🎲, Coin-toss🪙, Poker♠️    
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
         
