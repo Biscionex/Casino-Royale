@@ -55,9 +55,22 @@ Protip : High Paying High risk
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+HIGH-LOW ☝️👇       
+High-Low is a classic casino guessing game where players predict whether the next drawn card or generated number will be higher or lower than the current one. Simple to learn and fast-paced, it combines risk management with pure chance.       
+
+Rules :     
+1] The computer will decide a number between 1 to 100     
+2] The computer will give a hint by giving a different number      
+3] The player now must decide if the decided number by the computer is higher / lower or same as the given number in the hint      
+4] The player gets paid accordingly if he wins    
+5] ENJOY 💸💸💸     
+
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 THE CASINO is under development        
 Upcoming games :            
-Roulette ⚫🔴, HighLow, Snake-eyes🐍🎲, Coin-toss🪙, Poker♠️    
+Roulette ⚫🔴, Snake-eyes🐍🎲, Coin-toss🪙, Poker♠️    
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
         
