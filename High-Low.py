@@ -6,7 +6,7 @@ import time
 def main():
     low = 1
     high = 100
-    balance = 1000.0
+    balance = 1000000.0
 
     print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
     print("\n******WELCOME TO HIGH-LOW******\n")
