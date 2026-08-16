@@ -92,7 +92,7 @@ def play_hand(hand, deck, bet, balance, hand_title="Player"):
 
 
 def main() :
-    balance = 1000
+    balance = 1000000
     print()
     print("❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️ ❤️ ♦️")
     print()
