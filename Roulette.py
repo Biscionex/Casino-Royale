@@ -22,7 +22,7 @@ def get_emoji(color):
     return emoji_map.get(color, "")
 
 def main() :
-    balance = 1000
+    balance = 1000000
     print("***************************************")
     print("\n~~~~~~~~Welcome to the Roulette~~~~~~~~\n")
     print(f"You get a joining bonus of {balance}")
